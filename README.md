@@ -9,6 +9,8 @@ php-config
 [![Quality Score](https://img.shields.io/scrutinizer/g/sobanvuex/php-config.svg?style=flat-square)](https://scrutinizer-ci.com/g/sobanvuex/php-config)
 [![Total Downloads](https://img.shields.io/packagist/dt/sobanvuex/php-config.svg?style=flat-square)](https://packagist.org/packages/sobanvuex/php-config)
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/dd445059-f49e-49b9-a472-12959683c41d/big.png)](https://insight.sensiolabs.com/projects/dd445059-f49e-49b9-a472-12959683c41d)
+
 Install
 -------
 
